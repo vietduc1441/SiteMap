@@ -1,0 +1,2 @@
+del "E:\Mendix Projects\ReportBase\deployment\web\widgets\widgets.js"
+copy "E:\Mendix Projects\SiteMap\HTML5Application\public_html\SiteMap.js" "E:\Mendix Projects\ReportBase\deployment\web\widgets\SiteMap\widget"
